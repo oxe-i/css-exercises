@@ -8,3 +8,6 @@ button {
     color: white;
 }
 
+.second-button {
+    background-color: hsl(56, 95%, 49%);
+}
